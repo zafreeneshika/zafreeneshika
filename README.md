@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computer have lots of memory but no imagination 🤔
 
 <!--
 **zafreeneshika/zafreeneshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
