@@ -1,5 +1,7 @@
 
-### Computer have lots of memory but no imagination 🤔
+### HOLA WORLD!!!!🤔
+
+
 - 🌱 I’m currently learning Python programming,Graphics Design & WordPress Development.
 - 🔭 I’m currently working on Flutter 
 - 📫 How to reach me tabassum15-4701@diu.edu.bd
