@@ -1,5 +1,6 @@
 ### Computer have lots of memory but no imagination 🤔
-
+- 🌱 I’m currently learning Pythone programming,Graphics Design & WordPress Development.
+- 📫 How to reach me tabassum15-4701@diu.edu.bd
 <!--
 **zafreeneshika/zafreeneshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
