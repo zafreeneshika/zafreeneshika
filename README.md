@@ -1,7 +1,7 @@
 
 ### HOLA WORLD!!!!🤔
 
-Hi, I'm Zafreen 😉, 24 years old Engineer and Programmer 👨🏻‍💻 from Bangladesh 🇧🇩.  I like to develop in Python. I am passionate about Machine Learning, Deep Learning, and Computer Vision. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Zafreen 😉, 24 years old Engineer and Programmer 👨🏻‍💻 from Bangladesh 🇧🇩.  I like to develop in Python. I am passionate about Machine Learning, Deep Learning, and Computer Vision. Currently. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 - 🌱 I’m currently learning Python programming,Graphics Design & WordPress Development.
 - 🔭 I’m currently working on Flutter 
